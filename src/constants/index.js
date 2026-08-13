@@ -148,7 +148,7 @@ export const experiences = [
   {
     title: "Clinical Data Analyst Intern Candidate",
     job: "Self-Directed Projects",
-    date: "2025 - Present",
+    date: "2026 - Present",
     contents: [
       "Developed automated Python pipelines for Clinical Laboratory (LB) safety analysis and Adverse Events (AE) data cleaning.",
       "Generated regulatory-compliant Tables, Listings, and Figures (TLFs) using Pandas and Seaborn.",
