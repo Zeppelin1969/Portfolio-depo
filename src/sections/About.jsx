@@ -28,7 +28,7 @@ const About = () => {
         <div className="grid-default-color grid-2">
           <div
             ref={grid2Container}
-            className="flex items-center justify-center w-full h-full"
+            className="flex items-center justify-center w-full h-full scale-75 sm:scale-100"
           >
             <p className="flex items-end text-5xl text-gray-500">
               CODE IS CRAFT
@@ -98,13 +98,13 @@ const About = () => {
         </div>
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
-          <div className="z-10 w-[50%]">
+          <div className="z-10 w-[65%] sm:w-[50%]">
             <p className="headtext">Tech Stack</p>
             <p className="subtext">
               I specialize in Clinical Data Analysis using Python, Pandas, Numpy, and Seaborn. I am eager to learn SAS and R while leveraging AI-assisted programming to optimize clinical pipelines.
             </p>
           </div>
-          <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
+          <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[40%] sm:start-[50%] md:scale-125">
             <Frameworks />
           </div>
         </div>
