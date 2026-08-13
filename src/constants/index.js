@@ -22,6 +22,16 @@ export const myProjects = [
         id: 2,
         name: "Pandas",
         path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg",
+      },
+      {
+        id: 3,
+        name: "Seaborn",
+        path: "/assets/seaborn.svg",
+      },
+      {
+        id: 4,
+        name: "Matplotlib",
+        path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg",
       }
     ],
   },
@@ -43,6 +53,11 @@ export const myProjects = [
         id: 1,
         name: "Python",
         path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+      },
+      {
+        id: 2,
+        name: "Pandas",
+        path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg",
       }
     ],
   },
@@ -64,6 +79,16 @@ export const myProjects = [
         id: 1,
         name: "Python",
         path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+      },
+      {
+        id: 2,
+        name: "Pandas",
+        path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg",
+      },
+      {
+        id: 3,
+        name: "Datetime",
+        path: "/assets/datetime.svg",
       }
     ],
   },
@@ -88,8 +113,8 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "Jupyter",
-        path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg",
+        name: "Pandas",
+        path: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg",
       }
     ],
   },
