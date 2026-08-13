@@ -112,9 +112,9 @@ export const experiences = [
   {
     title: "Bachelor of Engineering",
     job: "Tribhuvan University — Computer Engineering",
-    date: "2022 - Jan 2026",
+    date: "2022 - 2026",
     contents: [
-      "Expected Graduation: January 2026.",
+      "Expected Graduation: 2026.",
       "Completed rigorous engineering coursework including Computer Architecture, Operating Systems, Computer Networks, and Software Engineering.",
       "Built strong foundations in data structures, algorithms, and collaborative team-oriented design.",
       "Participated in hands-on laboratories and engineering project deployments."
